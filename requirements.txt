@@ -2,5 +2,5 @@ streamlit
 joblib 
 pandas
 pipenv shell
-"-m pip install --upgrade pip"
+pip version == 22.3.1 
 xgboost
