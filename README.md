@@ -5,5 +5,6 @@
    -transformation and feature engineer \
    -detect outliers and determine it by visualize graph and (detect outliers - iqr - distribution way )\
    -EDA\
-   -splitting general dataframe into outliers df , without_outlier df and applying all techniqual ways like (imputing - scaling - modeling - evaluation )
+   -splitting general dataframe into outliers df , without_outlier df and applying all techniqual ways like (imputing - scaling - modeling - evaluation)
+####DEPLOYMENT 
    
