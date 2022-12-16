@@ -1,6 +1,4 @@
 streamlit 
 joblib 
 pandas
-pipenv shell
-pip version == 22.3.1 
 xgboost
