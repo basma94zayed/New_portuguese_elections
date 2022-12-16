@@ -1,5 +1,6 @@
 streamlit 
 joblib 
 pandas
-"/home/appuser/venv/bin/python -m pip install --upgrade pip"
+pipenv shell
+pip install --upgrade python 22.3.1
 xgboost
