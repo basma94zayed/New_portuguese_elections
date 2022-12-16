@@ -1,4 +1,5 @@
 streamlit 
 joblib 
 pandas
-
+-m pip install --upgrade pip
+xgboost
